@@ -85,7 +85,7 @@ Les scripts sont classés selon leur fonctionnalité :
 
 ## 📁 Requis pour exécuter le projet
 
-- Unity (version recommandée : 2021.3 LTS ou ultérieure)
+- Unity (version recommandée : 6000.0.40f1 LTS ou ultérieure)
 - Modules : 3D Core, Input System, Post Processing Stack
 
 ---
